@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1649957349 source:d:\automated house\bathroom.cpp
+	<iostream>
+	"Bathroom.h"
+
+1649957349 d:\automated house\bathroom.h
+	"IRoom.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"Pressure.h"
+
+1649957349 d:\automated house\iroom.h
+
+1649957349 d:\automated house\isensor.h
+
+1649957349 d:\automated house\temperature.h
+	"ISensor.h"
+	<time.h>
+	<stdlib.h>
+
+1649957349 d:\automated house\humidity.h
+	"ISensor.h"
+	<time.h>
+	<stdlib.h>
+
+1649957349 d:\automated house\pressure.h
+	"ISensor.h"
+	<time.h>
+	<stdlib.h>
+
+1649957349 source:d:\automated house\bedroom.cpp
+	<iostream>
+	"Bedroom.h"
+
+1649957349 d:\automated house\bedroom.h
+	"IRoom.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"Pressure.h"
+
+1649957349 source:d:\automated house\house.cpp
+	<iostream>
+	"house.h"
+
+1649957349 d:\automated house\house.h
+	<vector>
+	"IRoom.h"
+	<chrono>
+	<ctime>
+	<time.h>
+
+1649957349 source:d:\automated house\humidity.cpp
+	<iostream>
+	"Humidity.h"
+
+1649957349 source:d:\automated house\kitchen.cpp
+	<iostream>
+	"Kitchen.h"
+
+1649957349 d:\automated house\kitchen.h
+	"IRoom.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"Pressure.h"
+
+1649957349 source:d:\automated house\living.cpp
+	<iostream>
+	"Living.h"
+
+1649957349 d:\automated house\living.h
+	"IRoom.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"ISensor.h"
+	"Temperature.h"
+	"Humidity.h"
+	"Pressure.h"
+
+1649957349 source:d:\automated house\pressure.cpp
+	<iostream>
+	"Pressure.h"
+
+1649957349 source:d:\automated house\temperature.cpp
+	<iostream>
+	"Temperature.h"
+
